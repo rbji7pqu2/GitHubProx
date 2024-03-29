@@ -3,7 +3,7 @@
     { "handle": "filesystem" },
     {
       "src": "/(.*)",
-      "dest": "https://huggingface.co/THUDM/chatglm3-6b/"
+      "dest": "https://huggingface.co/$1/"
     }
   ]
 }
