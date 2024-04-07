@@ -3,7 +3,7 @@
     { "handle": "filesystem" },
     {
       "src": "/(.*)",
-      "dest": "https://huggingface.co/$1/"
+      "dest": "https://chat.openai.com/$1/"
     }
   ]
 }
